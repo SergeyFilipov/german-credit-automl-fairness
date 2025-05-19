@@ -231,10 +231,12 @@ Accuracy equality – equal prediction accuracy between groups
 
 ## 📚 Dataset Source
 
-The dataset used in this project is a cleaned version of the original *German Credit Risk* dataset, available on Kaggle:
+The dataset used in this project is a cleaned and preprocessed version of the original **German Credit Risk** dataset, published on Kaggle:
 
 🔗 [German Credit Risk Dataset – Kaggle](https://www.kaggle.com/datasets/uciml/german-credit)  
-📌 Source: UCI Machine Learning Repository – Statlog (German Credit Data)
+📌 Originally sourced from the [UCI Machine Learning Repository – Statlog (German Credit Data)](https://archive.ics.uci.edu/ml/datasets/statlog+(german+credit+data))
 
-This dataset contains anonymized information on credit applicants and is widely used for evaluating credit scoring models and fairness metrics.
+This dataset contains anonymized information on 1,000 credit applicants, including demographic and financial variables such as age, sex, job type, account status, loan purpose, and risk classification (`good` or `bad`). It is widely used in credit scoring research and fairness-aware machine learning.
+
+
 
