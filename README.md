@@ -227,3 +227,14 @@ Predictive parity – equal true positive rates
 Accuracy equality – equal prediction accuracy between groups
 
 ✅ This analysis helps detect potential discrimination or unfair treatment based on gender.
+
+
+## 📚 Dataset Source
+
+The dataset used in this project is a cleaned version of the original *German Credit Risk* dataset, available on Kaggle:
+
+🔗 [German Credit Risk Dataset – Kaggle](https://www.kaggle.com/datasets/uciml/german-credit)  
+📌 Source: UCI Machine Learning Repository – Statlog (German Credit Data)
+
+This dataset contains anonymized information on credit applicants and is widely used for evaluating credit scoring models and fairness metrics.
+
